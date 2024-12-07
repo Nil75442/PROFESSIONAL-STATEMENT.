@@ -1,4 +1,4 @@
-**My strengths, values, and interest in cybersecurity can significantly contribute to the security goals of organizations in the following ways:**
+<p>**My strengths, values, and interest in cybersecurity can significantly contribute to the security goals of organizations in the following ways:**<p>
 
 1. **Proactive Threat Management:**
    My deep interest in cybersecurity enables me to stay up-to-date with the latest security trends and threats. This proactive approach allows me to identify vulnerabilities and address them before they can be exploited, ensuring the organization's systems remain secure. By utilizing threat intelligence, I can help organizations anticipate and mitigate risks effectively.
